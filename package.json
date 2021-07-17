@@ -90,7 +90,7 @@
     "ember-web-app": "^4.0.0",
     "ember-welcome-page": "^4.0.0",
     "emojione": "git://github.com/mcfiredrill/emojione#animated-emoji",
-    "eslint-config-prettier": "^6.11.0",
+    "eslint-config-prettier": "^8.3.0",
     "eslint-plugin-ember": "8.13.0",
     "eslint-plugin-node": "11.1.0",
     "eslint-plugin-prettier": "^3.4.0",
